@@ -11,7 +11,7 @@ BALEVANI WORD COUNTER
 
 ## Description
 
-This is a word counter app that .
+This is a word counter app that counts the total word count total word occurence of a given sentence.
 
 
 
